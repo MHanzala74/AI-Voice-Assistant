@@ -1,0 +1,16 @@
+[project]
+name = "ai-voice-assistant"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "keyboard>=0.13.5",
+    "pyaudio>=0.2.14",
+    "pynput>=1.8.2",
+    "pyttsx3>=2.99",
+    "pywhatkit>=5.4",
+    "speechrecognition>=3.16.1",
+    "streamlit>=1.58.0",
+    "wikipedia>=1.4.0",
+]
